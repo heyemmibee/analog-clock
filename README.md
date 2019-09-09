@@ -2,10 +2,13 @@
 
 This is a javascript learning project through Linkedin essential training with morten Rand-Hendriksen. The goal is to create a layered SVG digital analog clock using CSS transform and Javascript.
 
-I plan on making the movements correspond with color changing
+Next I plan on making the movements correspond with color changes.
 
 ## Getting Started
 
+Available to view here:
+
+https://heyemmibee.github.io/analog-clock/
 
 ## Prerequisites
 
@@ -14,7 +17,7 @@ Not needed
 ## Built With
 
 * [JavaScript](https://www.javascript.com/) - Programming language.
-* [Bootstrap](https://getbootstrap.com/docs/3.3/) - Front-end HTML, CSS, javascript framework for creating responsive web applications. 
+* HTML, CSS 
 
 ## Contributing
 
